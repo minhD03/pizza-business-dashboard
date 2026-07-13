@@ -1,14 +1,22 @@
 # Pizza Business Dashboard [(Live Report Publish)](https://app.powerbi.com/view?r=eyJrIjoiN2ZlY2Y3NmItM2Y0Zi00MGFlLWE4MGYtOGUxMjZlZTNjZThmIiwidCI6IjZhNjhlMmQxLWQ4OGQtNDEyYi1iOTgyLWQ0YWVkNWY1MTcxNiJ9)
-## 1. Introdcution: 
+
+## Table of Contents
+- [1) Introduction](#1-introduction)
+- [2) Screenshots](#2-screenshots)
+- [3) Datasets](#3-datasets)
+- [4) Insights](#4-insights)
+
+
+## 1) Introduction: 
 This Pizza Dashboard uses Power BI to track the pizza business. This will help deciding to utilize any pizzas on the menu or ingredients for the most profit and efficiency.
-## 2. Preview Screenshots:
+## 2) Screenshots:
 Below are my Dashboard Screenshots. Further report can be viewed [Here](https://github.com/minhD03/Pizza-Business-Dashboard/blob/efc0e7baf1026a1612c17c195deba439cf5ebecc/Pizza%20Business%20-%20Nhat%20Minh%20Dang.pdf)
 
 ![alt text](https://github.com/minhD03/Pizza-Business-Dashboard/blob/bec5b1eab58ff0621ea5ca19d68289535c116dbd/Images/Dashboard%201.png)
 ![alt text](https://github.com/minhD03/Pizza-Business-Dashboard/blob/bec5b1eab58ff0621ea5ca19d68289535c116dbd/Images/Dashboard%202.png)
 ![alt text](https://github.com/minhD03/Pizza-Business-Dashboard/blob/bec5b1eab58ff0621ea5ca19d68289535c116dbd/Images/Dashboard%203.png)
 
-## 3. About the data:
+## 3) Datasets:
 The dataset contains 1 Excel File with these columns:
 | Field       | Description                                                                                                                                         |
 |-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -23,7 +31,7 @@ The dataset contains 1 Excel File with these columns:
 | category    | Category that the pizza falls under in the menu (Classic, Chicken, Supreme, or Veggie)                                                             |
 | ingredients | Comma-delimited ingredients used in the pizza as shown in the menu (they all include Mozzarella Cheese, even if not specified and they all include Tomato Sauce, unless another sauce is specified) |
 
-## 4. Insights gained:
+## 4) Insights:
 ### 📊 Pizza Business Insights (2015)
 
 #### 🧭 Overall Business Performance
